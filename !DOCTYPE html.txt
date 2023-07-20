@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Student Portfolio</title>
+    <!-- Bootstrap CSS link here -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">Vamsi Krishna Gavva</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/638197664119100402.docx">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/AMAZON WEB SERVICES INTERNSHIP CERTIFICATE.pdf">Projects</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header / Hero Section -->
+    <header class="jumbotron bg-primary text-white text-center">
+        <div class="container">
+            <h1 class="display-4">Welcome to My Portfolio</h1>
+            <p class="lead">Hi, I am Vamsi Krishna Gavva
+            </p>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="about" class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <h2>About Me</h2>
+                    <p>
+                        Hello,
+
+                        My name is Vamsi Krishna Gavva, and I am pursuing a degree in Computer Science
+                        Engineering.</br>I am thrilled to have this opportunity to introduce myself and share a bit
+                        about my journey as an aspiring engineer.</br>
+
+                        From a young age, I have been fascinated by technology and its ever-expanding
+                        possibilities.</br> As I grew older, my interest in computers and programming became a driving
+                        force in my life, leading me to choose Computer Science Engineering as my academic path.</br>
+
+                        In addition to my technical pursuits, I am passionate about contributing to the community and
+                        making a positive impact</br>. I believe technology can be a powerful force for good, and I
+                        aspire to use my knowledge to build meaningful projects that can make a difference in people's
+                        lives.</br>
+
+                        As I move forward in my journey as a Computer Science Engineering student, I am excited about
+                        the endless possibilities this field offers.</br> I am constantly motivated to strive for
+                        excellence, embrace challenges, and leave a mark as a professional in the tech industry.</br>
+
+                        Thank you for taking the time to get to know me better.</br> I am looking forward to connecting
+                        with like-minded individuals, collaborating on exciting projects, and continuing my growth in
+                        the world of technology.</br>
+
+                        Best regards,</br>
+                        <b>Vamsi Krishna Gavva</b></br></p </p>
+                </div>
+                <div class="col-lg-6">
+                    <!-- You can add an image of yourself here -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="bg-light py-5">
+        <div class="container">
+            <h2 class="text-center" href="/AMAZON WEB SERVICES INTERNSHIP CERTIFICATE.pdf">My Projects</h2>
+            <p> 
+                <b>My internship is on AWS(AMAZON WEB SERVICES):</br></b>
+
+                AWS is one of the leading cloud computing platforms, widely adopted by businesses and organizations
+                worldwide, making it an essential skill for students pursuing careers in various tech-related fields.
+                Here are some key points about student internships on AWS:
+
+                Learning Cutting-Edge Technologies: AWS offers a wide range of cloud computing services, including
+                computing power, storage, databases, analytics, AI, and more. During the internship, students get
+                hands-on experience with these cutting-edge technologies, gaining practical skills that are highly
+                relevant in today's tech industry.
+
+                Real-World Project Experience: Internships on AWS often involve working on real-world projects for
+                actual clients or business use cases. This provides students with a chance to apply their theoretical
+                knowledge in a practical setting, boosting their problem-solving abilities and fostering creativity.
+
+                Industry Exposure: Working on AWS gives students exposure to the industry's best practices and
+                standards. They learn to develop solutions that are scalable, secure, and efficient, which are critical
+                aspects of cloud computing architecture.
+
+                Collaboration and Teamwork: Student interns on AWS usually work in teams, collaborating with other
+                interns and experienced professionals. This experience teaches them how to work as part of a team,
+                communicate effectively, and contribute to collective goals.
+
+                Networking Opportunities: AWS internships provide a great platform for networking. Students can connect
+                with AWS professionals, fellow interns, and other industry experts, creating valuable connections that
+                may open doors to future career opportunities.
+
+                Enhancing Problem-Solving Skills: Working on AWS often involves troubleshooting and resolving complex
+                issues. This enhances students' problem-solving skills as they encounter real challenges and learn to
+                devise solutions.
+
+                Building a Portfolio: Completing projects during an AWS internship allows students to build a portfolio
+                showcasing their practical skills and accomplishments. A strong portfolio can be an essential asset when
+                applying for jobs after graduation.
+
+                Career Growth and Employability: AWS is widely adopted across industries, making students with AWS
+                expertise highly sought after in the job market. Having AWS experience on their resume can significantly
+                enhance their employability and career prospects.
+
+                Continuous Learning: AWS is constantly evolving, introducing new services and updates. An internship on
+                AWS encourages students to keep up with the latest developments, fostering a mindset of continuous
+                learning and professional growth.
+
+                Impacting the Cloud Revolution: With the growing significance of cloud computing, students interning on
+                AWS are contributing to the cloud revolution and playing a part in shaping the future of technology.</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="py-5">
+        <div class="container">
+            <h2 class="text-center">Contact Me</h2>
+            <p >Contact me <b>@ vamsigavva302@gmail.com</b></p>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer class="bg-dark text-white text-center py-3">
+        <div class="container">
+            <p>&copy; 2023 Vamsi Krishna Gavva. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS and jQuery scripts -->
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>
